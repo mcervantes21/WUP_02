@@ -64,8 +64,10 @@ c52 average level of vitC is 64.4 which is almost 15 above that of c39.
 t.test(VitC~Cult,data=veggy)
 ```
 
-The chances of the results is very unlikey 1 in less than one billion (.00000003405) if the null hypothesis is true. I'm going to reject the null idea that the hypthesis is true. 
+The chances of the results is very unlikey 1 in less than one billion (.0000003405) if the null hypothesis is true. I'm going to reject the null idea that the hypothesis is true. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the data above, c52 has a higher level of vitC with a high average of 64.4 which beats c39's average of 51.5. The p value shows me that the chances of these same results reoccurring is very unlikely with a .00000003405 chance. It appears there is no relationship between these two variables data therefore there is no relationship between them.
