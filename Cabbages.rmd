@@ -41,6 +41,7 @@ veggy <- cabbages
 plot(VitC~Cult,data=veggy)
 ```
 
+This chart shows me that c52 has higher levels of VitC compared to c39.
 
 ### Numerical Descriptive Results
 
