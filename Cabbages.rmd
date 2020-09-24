@@ -52,7 +52,7 @@ This chart shows me that c52 has higher levels of VitC compared to c39.
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-
+c52 average level of vitC is 64.4 which is almost 15 above that of c39.
 
 ## Inferential Results
 
@@ -63,6 +63,8 @@ favstats(VitC~Cult,data=veggy)
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
+
+The chances of the results is very unlikey 1 in less than one billion (.00000003405) if the null hypothesis is true. I'm going to reject the null idea that the hypthesis is true. 
 
 # Discussion and Conclusion
 
